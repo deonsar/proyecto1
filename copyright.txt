@@ -2,3 +2,4 @@ Este es
 el fichero
 de copyright.txt
 sacado del staging area y modificado
+modificando para probar la rama test
