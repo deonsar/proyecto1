@@ -1,0 +1,4 @@
+Este es
+el fichero
+de copyright.txt
+sacado del staging area y modificado
