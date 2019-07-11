@@ -3,3 +3,6 @@ es el
 archivo de 
 leeme.txt
 cambios desde la rama master
+hemos viajado al pasado a solucionar un problema y a crear otros seis.
+probablemente
+
